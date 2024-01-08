@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "IPhone 12",
+    "description": "Smartphone from Apple",
+    "price": 10000.00,
+    "countryManufacturer": null,
+    "category": null
+  },
+  {
+    "id": 2,
+    "name": "IPhone 12",
+    "description": "Smartphone from Apple",
+    "price": 10000.00,
+    "countryManufacturer": null,
+    "category": null
+  }
+]
